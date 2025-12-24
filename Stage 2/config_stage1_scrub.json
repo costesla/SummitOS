@@ -1,0 +1,60 @@
+{
+  "rootDestinationPath": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Uber Tracking\\2025",
+  "sourceBaseFolder": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\Pictures\\Camera Roll\\2025",
+  "folderDateFormat": "MM.dd.yy",
+  "dateFormat": "yyyy-MM-dd",
+  "logFolderPath": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Logs",
+  "logFileName": "mobilityos_stage1_log_scrub.txt",
+  "acceptedExtensions": [
+    ".jpg",
+    ".jpeg"
+  ],
+  "routes": {
+    "Weather": [
+      "weather",
+      "radaromega",
+      "reflectivity",
+      "storm",
+      "echo",
+      "tops",
+      "velocity",
+      "sweep"
+    ],
+    "Flight Arrivals": [
+      "flightradar",
+      "flight",
+      "arrival board"
+    ],
+    "Charging Sessions": [
+      "charge",
+      "charging",
+      "supercharger",
+      "kwh used"
+    ],
+    "Expense": [
+      "starbucks",
+      "coffee",
+      "meal",
+      "snack",
+      "food"
+    ],
+    "Detail": [
+      "trip detail",
+      "fare breakdown",
+      "earnings"
+    ],
+    "Receipts": [
+      "receipt",
+      "uber eats",
+      "invoice",
+      "payment"
+    ],
+    "Bucket": [
+      "trip",
+      "pickup",
+      "dropoff",
+      "Offer",
+      "Uber Driver"
+    ]
+  }
+}

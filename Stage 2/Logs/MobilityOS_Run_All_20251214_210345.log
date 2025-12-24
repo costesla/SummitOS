@@ -1,0 +1,86 @@
+2025-12-14 21:03:45	=== MobilityOS Unified Run Started ===
+2025-12-14 21:03:45	Configs: Stage1=C:\Users\Peter Teehan\.gemini\antigravity\brain\2e74c4f2-75ce-4c11-a9df-8c9dd35c32bb\config_stage1_run_2025.json | Stage2=c:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Scripts\Stage 2\config_stage2.json
+2025-12-14 21:03:45	Mode: LIVE
+2025-12-14 21:03:45	[CREATE] C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Uber Tracking\2025\December\Week 2\12.13.25
+2025-12-14 21:03:45	[CREATE] C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Uber Tracking\2025\December\Week 2\12.13.25\Bucket
+2025-12-14 21:03:45	[PATH] Source images : C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\Pictures\Camera Roll\2025
+2025-12-14 21:03:45	[PATH] Destination   : C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Uber Tracking\2025\December\Week 2\12.13.25\Bucket
+2025-12-14 21:03:46	[BUCKET] Found 64 image(s) for time window
+2025-12-14 21:03:46	[MOVE] 20251213_074307.jpg -> 20251213_074307.jpg
+2025-12-14 21:03:46	[MOVE] 20251213_134808.jpg -> 20251213_134808.jpg
+2025-12-14 21:03:46	[MOVE] 20251214_185635.jpg -> 20251214_185635.jpg
+2025-12-14 21:03:46	[MOVE] 20251214_185736.jpg -> 20251214_185736.jpg
+2025-12-14 21:03:46	[MOVE] 20251214_190110.jpg -> 20251214_190110.jpg
+2025-12-14 21:03:46	[MOVE] 20251214_190844.jpg -> 20251214_190844.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_084317.jpg -> Screenshot_20251213_084317.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_084524_Cash App.jpg -> Screenshot_20251213_084524_Cash App.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_084751_Cash App.jpg -> Screenshot_20251213_084751_Cash App.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_084813_Cash App.jpg -> Screenshot_20251213_084813_Cash App.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_085102_Uber Driver.jpg -> Screenshot_20251213_085102_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_085110_Uber Driver.jpg -> Screenshot_20251213_085110_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_085835_Uber Driver.jpg -> Screenshot_20251213_085835_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_090410_Uber Driver.jpg -> Screenshot_20251213_090410_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_091129_Uber Driver.jpg -> Screenshot_20251213_091129_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_091135_Uber Driver.jpg -> Screenshot_20251213_091135_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_093011_Uber Driver.jpg -> Screenshot_20251213_093011_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_093609_Uber Driver.jpg -> Screenshot_20251213_093609_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_093635_Uber Driver.jpg -> Screenshot_20251213_093635_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_094250_Uber Driver.jpg -> Screenshot_20251213_094250_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_094519_Uber Driver.jpg -> Screenshot_20251213_094519_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_095144_Uber Driver.jpg -> Screenshot_20251213_095144_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_111121_Chrome.jpg -> Screenshot_20251213_111121_Chrome.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_142817_Uber Driver.jpg -> Screenshot_20251213_142817_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_142841_Uber Driver.jpg -> Screenshot_20251213_142841_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_143323_Uber Driver.jpg -> Screenshot_20251213_143323_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_145129_Uber Driver.jpg -> Screenshot_20251213_145129_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_145852_Uber Driver.jpg -> Screenshot_20251213_145852_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_145934_Uber Driver.jpg -> Screenshot_20251213_145934_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_150458_Uber Driver.jpg -> Screenshot_20251213_150458_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_151041_Uber Driver.jpg -> Screenshot_20251213_151041_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_151721_Uber Driver.jpg -> Screenshot_20251213_151721_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_152743_Uber Driver.jpg -> Screenshot_20251213_152743_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_152754_Uber Driver.jpg -> Screenshot_20251213_152754_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_153341_Uber Driver.jpg -> Screenshot_20251213_153341_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_154241_Uber Driver.jpg -> Screenshot_20251213_154241_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_155228_Uber Driver.jpg -> Screenshot_20251213_155228_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_155247_Uber Driver.jpg -> Screenshot_20251213_155247_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_155716_Uber Driver.jpg -> Screenshot_20251213_155716_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_161331_Uber Driver.jpg -> Screenshot_20251213_161331_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_161716_Uber Driver.jpg -> Screenshot_20251213_161716_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_161836_Uber Driver.jpg -> Screenshot_20251213_161836_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_161946_Uber Driver.jpg -> Screenshot_20251213_161946_Uber Driver.jpg
+2025-12-14 21:03:46	[MOVE] Screenshot_20251213_163432_Uber Driver.jpg -> Screenshot_20251213_163432_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_165200_Uber Driver.jpg -> Screenshot_20251213_165200_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_165745_Uber Driver.jpg -> Screenshot_20251213_165745_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_170001_Uber Driver.jpg -> Screenshot_20251213_170001_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_170421_Uber Driver.jpg -> Screenshot_20251213_170421_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_170535_Uber Driver.jpg -> Screenshot_20251213_170535_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_173647_Uber Driver.jpg -> Screenshot_20251213_173647_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_174122_Tesla.jpg -> Screenshot_20251213_174122_Tesla.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_175421_Uber Driver.jpg -> Screenshot_20251213_175421_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_181014_Uber Driver.jpg -> Screenshot_20251213_181014_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_182625_Uber Driver.jpg -> Screenshot_20251213_182625_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251213_204359_Facebook.jpg -> Screenshot_20251213_204359_Facebook.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_124802_Cash App.jpg -> Screenshot_20251214_124802_Cash App.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_125132_Messages.jpg -> Screenshot_20251214_125132_Messages.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_132134_Chase.jpg -> Screenshot_20251214_132134_Chase.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_141912_Uber Driver.jpg -> Screenshot_20251214_141912_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_144336_Uber Driver.jpg -> Screenshot_20251214_144336_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_161205_Uber Driver.jpg -> Screenshot_20251214_161205_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_164814_Uber Driver.jpg -> Screenshot_20251214_164814_Uber Driver.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_195410.jpg -> Screenshot_20251214_195410.jpg
+2025-12-14 21:03:47	[MOVE] Screenshot_20251214_201418_Uber Driver.jpg -> Screenshot_20251214_201418_Uber Driver.jpg
+2025-12-14 21:03:47	=== Summary ===
+2025-12-14 21:03:47	Summary JSON: C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Scripts\Stage 2\Logs\MobilityOS_Run_All_Summary_20251214_210345.json
+2025-12-14 21:03:47	Summary CSV: C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Scripts\Stage 2\Logs\MobilityOS_Run_All_Summary_20251214_210345.csv
+2025-12-14 21:03:47	=== Triggering downstream stages ===
+2025-12-14 21:03:47	[STAGE 3] Running OCR Extraction...
+2025-12-14 21:03:47	[ERROR] Stage 3 script exited with code 1. (Tesseract missing?)
+2025-12-14 21:03:47	[STAGE 4] Fetching Tessie Data...
+2025-12-14 21:03:47	[STAGE 4] Completed.
+2025-12-14 21:03:47	[STAGE 5] Generating Report...
+2025-12-14 21:03:47	[STAGE 5] Completed.
+2025-12-14 21:03:47	[CLEANUP] Removing temp JSON artifacts (trip_data.json)...
+2025-12-14 21:03:47	  -> Artifacts removed.
+2025-12-14 21:03:48	Log file: C:\Users\Peter Teehan\OneDrive - COS Tesla LLC\MobilityOS\Scripts\Stage 2\Logs\MobilityOS_Run_All_20251214_210345.log
+2025-12-14 21:03:48	=== MobilityOS Unified Run Finished ===
