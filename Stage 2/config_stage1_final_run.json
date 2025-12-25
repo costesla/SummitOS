@@ -1,9 +1,9 @@
 {
-    "rootDestinationPath": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Uber Tracking\\2025",
-    "sourceBaseFolder": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Uber Tracking\\2025\\December\\Week 2\\12.10.25",
+    "rootDestinationPath": "C:\\Users\\Peter Teehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Uber Tracking\\2025",
+    "sourceBaseFolder": "C:\\Users\\Peter Teehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Uber Tracking\\2025\\December",
     "folderDateFormat": "MM.dd.yy",
     "dateFormat": "yyyy-MM-dd",
-    "logFolderPath": "C:\\Users\\PeterTeehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Logs",
+    "logFolderPath": "C:\\Users\\Peter Teehan\\OneDrive - COS Tesla LLC\\MobilityOS\\Logs",
     "logFileName": "mobilityos_stage1_log_final.txt",
     "acceptedExtensions": [
         ".jpg",
