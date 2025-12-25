@@ -67,17 +67,11 @@ function Classify-Card {
     param([string]$Text)
     $lower = $Text.ToLower()
 
+    # Offer (Check First - Upfront fares often contain "total" or "details" keywords)
+    if ($lower -match "opportunity|expected|includes|match|accept|exclusive") { return "offer" }
+
     # Detail
     if ($lower -match "fare breakdown|trip total|earnings|receipt|trip details|your earnings") { return "detail" }
-    
-    # Pickup
-    if ($lower -match "confirm pickup|start uberx|picking up") { return "pickup" }
-
-    # Dropoff
-    if ($lower -match "confirm dropoff|complete uberx|dropping off|rate rider") { return "dropoff" }
-
-    # Offer
-    if ($lower -match "opportunity|expected|includes|match|accept|exclusive") { return "offer" }
 
     return "unknown"
 }
