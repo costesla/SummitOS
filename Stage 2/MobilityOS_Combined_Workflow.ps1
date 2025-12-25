@@ -412,7 +412,7 @@ function Group-BucketTrips {
 # New Main Flow: Source -> Smart Grouping (Trips)
 if (-not $SkipBlockRouting) {
     # This function handles Importing AND Grouping in one pass
-    Ingest-SmartTrips -SourcePath $sourcePath -DayRoot $dayRoot -ProcessDate $procDate -GapMinutes 20
+    Group-BucketTrips -DayRoot $dayRoot -ProcessDate $procDate -GapMinutes 20
 }
 
 # Intra-block keyword routing (optional)
