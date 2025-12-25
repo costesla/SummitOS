@@ -32,11 +32,8 @@
       "kwh used"
     ],
     "Expense": [
-      "starbucks",
-      "coffee",
-      "meal",
-      "snack",
-      "food"
+      "receipt",
+      "invoice"
     ],
     "Detail": [
       "trip detail",
